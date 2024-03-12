@@ -1,7 +1,7 @@
-# EsbFireplace
+# EsbFireplace - Elixir
 
 The FIREPLACEv1.0 allows the use of the `esb` tooling for solving Advent of Code problems.
-This is an implementation of FIREPLACEv1.0 for elixir.
+This is an implementation of FIREPLACEv1.0 for [elixir](https://elixir-lang.org/).
 
 Check [esb](https://github.com/luxedo/esb) for more information.
 
